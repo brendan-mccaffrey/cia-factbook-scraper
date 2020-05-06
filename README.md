@@ -1,6 +1,6 @@
 # Web Scraper - CIA World Factbook
 
-This is a Java project focused on scraping data off the web using JSoup. In this project, the program connects with the [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) to retreive information based on the user's request. The options presented to the user at the menu are as follows.
+This is a Java project focused on scraping data off the web using JSoup. In this project, the program connects with the [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) to retrieve information based on the user's request. The options presented to the user at the menu are as follows.
 
 ### Functionality
 
